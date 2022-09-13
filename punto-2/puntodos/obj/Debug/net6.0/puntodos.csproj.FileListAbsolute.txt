@@ -1,0 +1,15 @@
+C:\Users\Danilo\Desktop\puntodos\obj\Debug\net6.0\puntodos.csproj.AssemblyReference.cache
+C:\Users\Danilo\Desktop\puntodos\obj\Debug\net6.0\puntodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danilo\Desktop\puntodos\obj\Debug\net6.0\puntodos.AssemblyInfoInputs.cache
+C:\Users\Danilo\Desktop\puntodos\obj\Debug\net6.0\puntodos.AssemblyInfo.cs
+C:\Users\Danilo\Desktop\puntodos\obj\Debug\net6.0\puntodos.csproj.CoreCompileInputs.cache
+C:\Users\Danilo\Desktop\puntodos\bin\Debug\net6.0\puntodos.exe
+C:\Users\Danilo\Desktop\puntodos\bin\Debug\net6.0\puntodos.deps.json
+C:\Users\Danilo\Desktop\puntodos\bin\Debug\net6.0\puntodos.runtimeconfig.json
+C:\Users\Danilo\Desktop\puntodos\bin\Debug\net6.0\puntodos.dll
+C:\Users\Danilo\Desktop\puntodos\bin\Debug\net6.0\puntodos.pdb
+C:\Users\Danilo\Desktop\puntodos\obj\Debug\net6.0\puntodos.dll
+C:\Users\Danilo\Desktop\puntodos\obj\Debug\net6.0\refint\puntodos.dll
+C:\Users\Danilo\Desktop\puntodos\obj\Debug\net6.0\puntodos.pdb
+C:\Users\Danilo\Desktop\puntodos\obj\Debug\net6.0\puntodos.genruntimeconfig.cache
+C:\Users\Danilo\Desktop\puntodos\obj\Debug\net6.0\ref\puntodos.dll
